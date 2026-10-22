@@ -65,7 +65,7 @@ export const projectsData = [
     technologies: ["JavaScript", "React", "Tailwind CSS"],
     image: "/images/projects/quiz-competition.jpg",
     githubUrl: "https://github.com/rajsingh65145-a11y/Quiz-competition",
-    liveUrl: "https://rajsingh65145-a11y.github.io/Quiz-competition/",
+    liveUrl: "https://quiz-competition-mocha.vercel.app/",
     accentGradient: "from-rose-400 via-fuchsia-500 to-pink-400",
     borderHover: "hover:border-fuchsia-500/50",
     badgeStyle: "bg-fuchsia-500/15 text-fuchsia-300 border-fuchsia-500/30",
