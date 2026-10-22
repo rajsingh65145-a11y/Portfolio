@@ -3,8 +3,8 @@
 
 export const contactData = {
   // Apna real email yahan likhein (e.g., "yourname@gmail.com")
-  email: "",
-  emailPlaceholderDisplay: "rajsingh65145@gmail.com",
+  email: "rajsingh65145@gmail.com",
+  emailPlaceholderDisplay: "Harsh singh",
 
   // Apna GitHub profile link yahan likhein (e.g., "https://github.com/yourusername")
   githubUrl: "https://github.com/rajsingh65145-a11y",
